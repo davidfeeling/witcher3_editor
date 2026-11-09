@@ -1,0 +1,96 @@
+{
+  "id": "20261109_010454_793637_QuickSave_10aa71_7ea52000_42b60d",
+  "fecha": "2026-11-09T01:04:54",
+  "tipo": "partida",
+  "partida": "QuickSave_10aa71_7ea52000_42b60d",
+  "motivo": "antes de modificar",
+  "carpeta_origen": "C:\\Users\\glown\\OneDrive\\Documents\\The Witcher 3\\gamesaves",
+  "archivos": [
+    {
+      "nombre": "QuickSave_10aa71_7ea52000_42b60d.sav",
+      "sha256": "49dfa27a1d5b109c7f3d4989200a9c59fbbf336da0e07dea6ca7ca4e4c3999b8",
+      "bytes": 1406083
+    },
+    {
+      "nombre": "QuickSave_10aa71_7ea52000_42b60d.png",
+      "sha256": "452278318cf1858ddb8a57ac78d721cc252e572406d9c3a85f3532492ff7ae94",
+      "bytes": 45684
+    },
+    {
+      "nombre": "QuickSave_10aa71_7ea52000_42b60d.json",
+      "sha256": "c85b240487f7c0a857561cd934e206897d7b08403461b4cf6a5eeac8e2c08cc7",
+      "bytes": 547
+    }
+  ],
+  "cambios": [
+    {
+      "campo": "Sigismund Dijkstra: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352847
+    },
+    {
+      "campo": "Barclay Els: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352775
+    },
+    {
+      "campo": "Ida Emean aep Sivney: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352391
+    },
+    {
+      "campo": "Brigada de Vrihedd: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352439
+    },
+    {
+      "campo": "Hostigador enano: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352487
+    },
+    {
+      "campo": "Defensores de Mahakam: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352559
+    },
+    {
+      "campo": "Apoyo de asedio: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1353423
+    },
+    {
+      "campo": "Vattier de Rideaux: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352895
+    },
+    {
+      "campo": "Stefan Skellen: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352871
+    },
+    {
+      "campo": "Cynthia: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352799
+    }
+  ],
+  "resumen": {
+    "Crowns": 14476,
+    "Orens": 13,
+    "Florens": 2,
+    "nivel": 15,
+    "xp_total": 16599,
+    "objetos": 764,
+    "cartas_gwynt": 68
+  }
+}

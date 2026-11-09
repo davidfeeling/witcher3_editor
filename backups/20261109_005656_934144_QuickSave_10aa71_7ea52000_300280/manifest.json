@@ -1,0 +1,150 @@
+{
+  "id": "20261109_005656_934144_QuickSave_10aa71_7ea52000_300280",
+  "fecha": "2026-11-09T00:56:56",
+  "tipo": "partida",
+  "partida": "QuickSave_10aa71_7ea52000_300280",
+  "motivo": "antes de modificar",
+  "carpeta_origen": "C:\\Users\\glown\\OneDrive\\Documents\\The Witcher 3\\gamesaves",
+  "archivos": [
+    {
+      "nombre": "QuickSave_10aa71_7ea52000_300280.sav",
+      "sha256": "12be37d921075dd377d542664f94316bf8317a7d65e1aa0762bcfe81da78b4a7",
+      "bytes": 1408366
+    },
+    {
+      "nombre": "QuickSave_10aa71_7ea52000_300280.png",
+      "sha256": "2d1d54d9b41463aef3f2a1e5bf2d75aae4293f5bcd1ed203c5eaf654ca04baf3",
+      "bytes": 48779
+    },
+    {
+      "nombre": "QuickSave_10aa71_7ea52000_300280.json",
+      "sha256": "c85b240487f7c0a857561cd934e206897d7b08403461b4cf6a5eeac8e2c08cc7",
+      "bytes": 547
+    }
+  ],
+  "cambios": [
+    {
+      "campo": "Mineral meteorítico: cantidad",
+      "antes": 5,
+      "despues": 10,
+      "offset": 3825033
+    },
+    {
+      "campo": "Amatista: cantidad",
+      "antes": 1,
+      "despues": 11,
+      "offset": 3825993
+    },
+    {
+      "campo": "Lingote de plata: cantidad",
+      "antes": 7,
+      "despues": 17,
+      "offset": 3827343
+    },
+    {
+      "campo": "Glifo menor de Quen: cantidad",
+      "antes": 5,
+      "despues": 50,
+      "offset": 3831814
+    },
+    {
+      "campo": "Mutágeno de aparición: cantidad",
+      "antes": 26,
+      "despues": 50,
+      "offset": 3831904
+    },
+    {
+      "campo": "Catapulta: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352171
+    },
+    {
+      "campo": "Arquero de la Infantería Negra: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352603
+    },
+    {
+      "campo": "Vesemir: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1353155
+    },
+    {
+      "campo": "Cazadragones Saqueadores de Crinfrid: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352147
+    },
+    {
+      "campo": "Keira Metz: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352723
+    },
+    {
+      "campo": "Bruja sepulcral: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352867
+    },
+    {
+      "campo": "Señuelo: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352771
+    },
+    {
+      "campo": "Gaunter O'Dim: Oscuridad: copias",
+      "antes": 1,
+      "despues": 4,
+      "offset": 1352291
+    },
+    {
+      "campo": "Médico Estandarte de Dun: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1353443
+    },
+    {
+      "campo": "Escorpión de fuego de Zerrikania: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352699
+    },
+    {
+      "campo": "Colihendido: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352363
+    },
+    {
+      "campo": "Cahir Mawr Dyffryn aep Ceallach: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1353299
+    },
+    {
+      "campo": "Explorador Dol Blathanna: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352483
+    },
+    {
+      "campo": "Moira: Tejedora: copias",
+      "antes": 1,
+      "despues": 3,
+      "offset": 1352003
+    }
+  ],
+  "resumen": {
+    "Crowns": 14476,
+    "Orens": 13,
+    "Florens": 2,
+    "nivel": 15,
+    "xp_total": 16599,
+    "objetos": 764,
+    "cartas_gwynt": 68
+  }
+}

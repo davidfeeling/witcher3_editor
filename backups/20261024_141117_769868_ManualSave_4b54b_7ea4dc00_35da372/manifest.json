@@ -1,0 +1,101 @@
+{
+  "id": "20261024_141117_769868_ManualSave_4b54b_7ea4dc00_35da372",
+  "fecha": "2026-10-24T14:11:17",
+  "tipo": "partida",
+  "partida": "ManualSave_4b54b_7ea4dc00_35da372",
+  "motivo": "antes de modificar",
+  "carpeta_origen": "C:\\Users\\glown\\OneDrive\\Documents\\The Witcher 3\\gamesaves",
+  "archivos": [
+    {
+      "nombre": "ManualSave_4b54b_7ea4dc00_35da372.sav",
+      "sha256": "895de3aafd689caa73b29831a5adbba22a372003480979b19747b4e6ee1c8ccf",
+      "bytes": 1311377
+    },
+    {
+      "nombre": "ManualSave_4b54b_7ea4dc00_35da372.png",
+      "sha256": "c49714fe5390055e3d9d1862fd5a46f79fe7eefb0fdc4fcd1e69e22caf86e297",
+      "bytes": 42777
+    },
+    {
+      "nombre": "ManualSave_4b54b_7ea4dc00_35da372.json",
+      "sha256": "bfeeb633b6fd1bcaae558c9b14361843c430c316d388df3d414d0d3aedb64825",
+      "bytes": 547
+    }
+  ],
+  "cambios": [
+    {
+      "campo": "Coronas: cantidad",
+      "antes": 13605,
+      "despues": 28605,
+      "offset": 3645391
+    },
+    {
+      "campo": "Placa de acero: cantidad",
+      "antes": 1,
+      "despues": 2,
+      "offset": 3653716
+    },
+    {
+      "campo": "Licor enano: cantidad",
+      "antes": 23,
+      "despues": 46,
+      "offset": 3646411
+    },
+    {
+      "campo": "Esencia acuática: cantidad",
+      "antes": 1,
+      "despues": 4,
+      "offset": 3658939
+    },
+    {
+      "campo": "Esencia de monstruo: cantidad",
+      "antes": 4,
+      "despues": 8,
+      "offset": 3653326
+    },
+    {
+      "campo": "Quintaesencia: cantidad",
+      "antes": 11,
+      "despues": 22,
+      "offset": 3654794
+    },
+    {
+      "campo": "Mutágeno verde: cantidad",
+      "antes": 1,
+      "despues": 10,
+      "offset": 3659423
+    },
+    {
+      "campo": "Mutágeno azul menor: cantidad",
+      "antes": 1,
+      "despues": 10,
+      "offset": 3658755
+    },
+    {
+      "campo": "Mutágeno azul: cantidad",
+      "antes": 1,
+      "despues": 10,
+      "offset": 3656882
+    },
+    {
+      "campo": "Mutágeno verde: cantidad",
+      "antes": 1,
+      "despues": 10,
+      "offset": 3663570
+    },
+    {
+      "campo": "Mutágeno rojo menor: cantidad",
+      "antes": 1,
+      "despues": 20,
+      "offset": 3659911
+    }
+  ],
+  "resumen": {
+    "Crowns": 13605,
+    "Orens": 551,
+    "Florens": 236,
+    "nivel": 13,
+    "xp_total": 14755,
+    "objetos": 657
+  }
+}

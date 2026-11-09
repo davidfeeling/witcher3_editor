@@ -1,0 +1,161 @@
+{
+  "id": "20261003_141644_202840_QuickSave_52584_7ea48800_38e61ec",
+  "fecha": "2026-10-03T14:16:44",
+  "tipo": "partida",
+  "partida": "QuickSave_52584_7ea48800_38e61ec",
+  "motivo": "antes de modificar",
+  "carpeta_origen": "C:\\Users\\glown\\OneDrive\\Documents\\The Witcher 3\\gamesaves",
+  "archivos": [
+    {
+      "nombre": "QuickSave_52584_7ea48800_38e61ec.sav",
+      "sha256": "02b060f6ac25c51c843fc55e4186160af012ee451e011f62f8b05a960565862c",
+      "bytes": 1247304
+    },
+    {
+      "nombre": "QuickSave_52584_7ea48800_38e61ec.png",
+      "sha256": "6c8b7803ae2f1bb4b4e598f57135cd17e5f902ea10914e8a847a0af2a97d8a47",
+      "bytes": 56681
+    },
+    {
+      "nombre": "QuickSave_52584_7ea48800_38e61ec.json",
+      "sha256": "081a9cfdccac9eb474a460dc0f38664337f127eb3427802cf1ee3125b086d108",
+      "bytes": 355
+    }
+  ],
+  "cambios": [
+    {
+      "campo": "Light armor 03: durabilidad",
+      "antes": 94.0,
+      "despues": 100.0,
+      "offset": 3542580
+    },
+    {
+      "campo": "Gloryofthenorth: durabilidad",
+      "antes": 94.54,
+      "despues": 100.0,
+      "offset": 3546265
+    },
+    {
+      "campo": "Pants 02: durabilidad",
+      "antes": 56.35,
+      "despues": 100.0,
+      "offset": 3547033
+    },
+    {
+      "campo": "Gloves 03_crafted: durabilidad",
+      "antes": 98.2,
+      "despues": 100.0,
+      "offset": 3547440
+    },
+    {
+      "campo": "Boots 03: durabilidad",
+      "antes": 98.8,
+      "despues": 100.0,
+      "offset": 3547854
+    },
+    {
+      "campo": "Light armor 06: durabilidad",
+      "antes": 94.6,
+      "despues": 100.0,
+      "offset": 3548008
+    },
+    {
+      "campo": "Geralt Shirt: durabilidad",
+      "antes": 73.14,
+      "despues": 100.0,
+      "offset": 3548404
+    },
+    {
+      "campo": "Pants 01 q2: durabilidad",
+      "antes": 67.56,
+      "despues": 100.0,
+      "offset": 3549045
+    },
+    {
+      "campo": "Karabela: durabilidad",
+      "antes": 68.4,
+      "despues": 100.0,
+      "offset": 3549167
+    },
+    {
+      "campo": "Azurewrath: durabilidad",
+      "antes": 70.03,
+      "despues": 100.0,
+      "offset": 3549461
+    },
+    {
+      "campo": "No Mans Land sword 1 q2: durabilidad",
+      "antes": 78.89,
+      "despues": 100.0,
+      "offset": 3550680
+    },
+    {
+      "campo": "Deithwen: durabilidad",
+      "antes": 71.7,
+      "despues": 100.0,
+      "offset": 3550832
+    },
+    {
+      "campo": "Pants 02: durabilidad",
+      "antes": 77.62,
+      "despues": 100.0,
+      "offset": 3550922
+    },
+    {
+      "campo": "Novigraadan sword 1: durabilidad",
+      "antes": 76.38,
+      "despues": 100.0,
+      "offset": 3550988
+    },
+    {
+      "campo": "Novigraadan sword 1: durabilidad",
+      "antes": 79.63,
+      "despues": 100.0,
+      "offset": 3551056
+    },
+    {
+      "campo": "Novigraadan sword 1: durabilidad",
+      "antes": 76.07,
+      "despues": 100.0,
+      "offset": 3551126
+    },
+    {
+      "campo": "No Mans Land sword 1 q2: durabilidad",
+      "antes": 78.56,
+      "despues": 100.0,
+      "offset": 3551738
+    },
+    {
+      "campo": "Boots 06: durabilidad",
+      "antes": 76.87,
+      "despues": 100.0,
+      "offset": 3551954
+    },
+    {
+      "campo": "Novigraadan sword 3: durabilidad",
+      "antes": 78.77,
+      "despues": 100.0,
+      "offset": 3552024
+    },
+    {
+      "campo": "Anathema: durabilidad",
+      "antes": 75.72,
+      "despues": 100.0,
+      "offset": 3552214
+    },
+    {
+      "campo": "Heavy armor 02: durabilidad",
+      "antes": 67.84,
+      "despues": 100.0,
+      "offset": 3552303
+    }
+  ],
+  "resumen": {
+    "Crowns": 20101,
+    "Orens": 277,
+    "Florens": 230,
+    "nivel": 11,
+    "xp_total": 11782,
+    "objetos": 528
+  }
+}

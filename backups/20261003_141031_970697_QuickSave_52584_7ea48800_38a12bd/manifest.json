@@ -1,0 +1,41 @@
+{
+  "id": "20261003_141031_970697_QuickSave_52584_7ea48800_38a12bd",
+  "fecha": "2026-10-03T14:10:31",
+  "tipo": "partida",
+  "partida": "QuickSave_52584_7ea48800_38a12bd",
+  "motivo": "antes de modificar",
+  "carpeta_origen": "C:\\Users\\glown\\OneDrive\\Documents\\The Witcher 3\\gamesaves",
+  "archivos": [
+    {
+      "nombre": "QuickSave_52584_7ea48800_38a12bd.sav",
+      "sha256": "cb6e87ab8eb7028efdbd1a1b39b69eb92f9edea6158c06aa4f8b78b91bf72b9e",
+      "bytes": 1254712
+    },
+    {
+      "nombre": "QuickSave_52584_7ea48800_38a12bd.png",
+      "sha256": "6c5c9b070858761f0312bd05823fc5f1abd2090cc49585ec9468fdb817e35641",
+      "bytes": 58740
+    },
+    {
+      "nombre": "QuickSave_52584_7ea48800_38a12bd.json",
+      "sha256": "081a9cfdccac9eb474a460dc0f38664337f127eb3427802cf1ee3125b086d108",
+      "bytes": 355
+    }
+  ],
+  "cambios": [
+    {
+      "campo": "Coronas: cantidad",
+      "antes": 19,
+      "despues": 10019,
+      "offset": 3541315
+    }
+  ],
+  "resumen": {
+    "Crowns": 19,
+    "Orens": 277,
+    "Florens": 230,
+    "nivel": 11,
+    "xp_total": 11782,
+    "objetos": 526
+  }
+}

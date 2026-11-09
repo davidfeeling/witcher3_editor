@@ -1,0 +1,20 @@
+{
+    "saveMetadata": {
+        "initial buildID": "",
+        "current buildID": "5.0.1090142  P4CL: 13662125  Stream: //Red_engine/Main.Lava.Release ",
+        "gameVersion": 29,
+        "saveVersion": 67,
+        "buildPatch": 0,
+        "platform": "PC",
+        "modsMetadata": {
+            "numMods": 1,
+            "modsList": {
+                "mod": {
+                    "modName": "modio_Fast Travel Pack",
+                    "modID": 5106384,
+                    "modGameVersion": 29
+                }
+            }
+        }
+    }
+}
